@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain_huggingface
+huggingface_hub
+faiss-cpu
+pypdf
+python-dotenv
+langchain_google_genai
+gradio
+langchain_text_splitters
+fastAPI
+sentence-transformers
+uvicorn
